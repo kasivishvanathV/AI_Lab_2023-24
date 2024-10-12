@@ -88,7 +88,7 @@ app = gr.Interface(fn=diabetes, inputs=['number','number','number','number','num
 app.launch(share=True)
 ```
 ## Output:
-![]("C:\Users\kasiv\OneDrive\Pictures\Screenshots\Screenshot 2024-10-12 125413.png")
+![]("Screenshot 2024-10-12 125413.png")
 
 
 ## Result:
