@@ -91,8 +91,8 @@ app.launch(share=True)
 ## Output:
 ![Screenshot 2024-10-12 125413](https://github.com/user-attachments/assets/a07fe78b-43f6-4e03-ad83-7040b191f6de)
 
-("![Screenshot 2024-10-12 125552](https://github.com/user-attachments/assets/5eb8b5db-05df-4340-8a1c-a4b91208bb34)
-")
+![Screenshot 2024-10-12 125552](https://github.com/user-attachments/assets/5eb8b5db-05df-4340-8a1c-a4b91208bb34)
+
 
 ## Result:
 Thus the system was trained successfully and the prediction was carried out.
