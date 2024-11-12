@@ -1,5 +1,6 @@
 # Ex.No: 13 Learning – Use Supervised Learning  
-### DATE:20/10/2024                                                                            
+### DATE:
+4.11.2024
 ### REGISTER NUMBER : 212222040073
 ### AIM: 
 To write a program to train the Big mart sales analysis and prediction
