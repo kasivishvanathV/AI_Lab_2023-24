@@ -124,6 +124,20 @@ print(predictions.head())
 
 ### Output:
 
+![Screenshot 2024-11-12 082953](https://github.com/user-attachments/assets/17accb49-1fa1-4f8b-990d-54423992fb6a)
+![Screenshot 2024-11-12 082944](https://github.com/user-attachments/assets/3609a5ae-b539-45f4-9993-b714703e441b)
+![Screenshot 2024-11-12 082937](https://github.com/user-attachments/assets/c7192f82-3182-4424-8fc5-862e5048186e)
+![Screenshot 2024-11-12 082929](https://github.com/user-attachments/assets/74ed4afe-013d-4b1d-bfb8-4544ee97a56e)
+![Screenshot 2024-11-12 082923](https://github.com/user-attachments/assets/51195a8a-cbc5-4e63-9832-64931bca9fa8)
+![Screenshot 2024-11-12 082916](https://github.com/user-attachments/assets/e17daafc-a48e-4077-a702-6b48f5e933e2)
+![Screenshot 2024-11-12 082910](https://github.com/user-attachments/assets/43cabf34-de6a-41bb-a5ea-edcd193c8438)
+![Screenshot 2024-11-12 082724](https://github.com/user-attachments/assets/f807e519-92ac-4966-8d43-323a97392b80)
+![Screenshot 2024-11-12 083036](https://github.com/user-attachments/assets/e31637e5-a018-4395-9dd8-aa9c2d95b3a8)
+![Screenshot 2024-11-12 083031](https://github.com/user-attachments/assets/ad313211-9102-44ba-86b0-b36102a091e6)
+![Screenshot 2024-11-12 083025](https://github.com/user-attachments/assets/1742c32e-bc1d-4f08-9ce4-f17e7485ccc6)
+![Screenshot 2024-11-12 083020](https://github.com/user-attachments/assets/e2bab541-4b8b-46e1-8df9-37ab3466f88c)
+![Screenshot 2024-11-12 083012](https://github.com/user-attachments/assets/c342f7db-b970-4d2a-a120-4ec689f4c3f8)
+![Screenshot 2024-11-12 083005](https://github.com/user-attachments/assets/152e0e81-808e-4f2e-adf0-74d56f42f831)
 
 
 
